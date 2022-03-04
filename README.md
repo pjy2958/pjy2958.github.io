@@ -5,12 +5,15 @@
 # #이많을수록 글씨가작아짐 부주제느낌
 
 ## 본인소개
-|이름 |박준영|
-|연락처 |010xxxxxxxx|
-|자격증 | 없다 |
-|수상 | 없다 |
 
-|이름 |박준영|
+|이름 | 박준영|
+|연락처 | 010xxxxxxxx|
+|자격증 | 없다 |
+|수상 | 없다|
+
+# -------------------------
+
+|이름 |**박준영**|
 |연락처 | gdko(@)kopo.ac.kr|
 |skill set| Frontend - HTML, CSS, Javascript|
 | | Backend - Java, Spring, Oracle|
