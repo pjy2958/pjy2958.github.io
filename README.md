@@ -2,6 +2,8 @@
 ## Welcome to GitHub Pages
 ### three
 
+# #이많을수록 글씨가작아짐 부주제느낌
+
 <img src = "dog.jpg"/> <br>
 ## 자기소개서
 <img src = "print.png"/> <br>
