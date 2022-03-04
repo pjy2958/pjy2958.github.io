@@ -2,7 +2,7 @@
 ## Welcome to GitHub Pages
 ### three
 
-<img src = "https://www.google.co.kr/imgres?imgurl=http%3A%2F%2Fimage.dongascience.com%2FPhoto%2F2020%2F03%2F5bddba7b6574b95d37b6079c199d7101.jpg&imgrefurl=https%3A%2F%2Fm.dongascience.com%2Fnews.php%3Fidx%3D35340&tbnid=03GMjyjkGolskM&vet=12ahUKEwip-L2ypav2AhVKDN4KHfggCZkQMygBegUIARDWAQ..i&docid=HkLTyh5N1DcG8M&w=500&h=651&q=%EA%B0%95%EC%95%84%EC%A7%80&ved=2ahUKEwip-L2ypav2AhVKDN4KHfggCZkQMygBegUIARDWAQ"/> <br>
+<img src = "dog.jpg"/> <br>
 [ 발표자료](/project.pptx) <br>
 
 ## 동영상 - 소스코드복사
