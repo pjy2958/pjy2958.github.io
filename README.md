@@ -4,7 +4,7 @@
 
 <img src = "dog.jpg"/> <br>
 ## 자기소개서
-<img src = "print.jpg"/> <br>
+<img src = "print.png"/> <br>
 [ 자기소개서](/project.pptx) <br>
 
 ## 동영상 - 소스코드복사
