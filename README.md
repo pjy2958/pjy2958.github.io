@@ -13,8 +13,8 @@
 |skill set | C   C++   C# |
 | | Python   Java   MySQL |
 |특기사항&nbsp;&nbsp;&nbsp; | 로스트아크 1580오너 |
-
-## 자기소개서
+<br>
+### 자기소개서
 <img src = "print.png"/> <br>
 [ 자기소개서](/project.pptx) <br>
 
