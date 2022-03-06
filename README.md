@@ -1,6 +1,4 @@
-# JYP 개발 홈페이지
-## Welcome to GitHub Pages
-### three
+## Welcome to JYP's GitHub Pages
 
 # #이많을수록 글씨가작아짐 부주제느낌
 
