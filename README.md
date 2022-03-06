@@ -20,6 +20,7 @@
 ### IT경험
 
 ||과목 |기간|개요 |
+|:--:|:--|:--|:--|
 |1|[git](https://heejinlee-kopo.github.io/subject)|2022년 3월|git 사용법 |
 |2||||
 |3||||
