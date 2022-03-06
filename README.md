@@ -6,9 +6,9 @@
 |자격증 | 2022년 정보처리기사 |
 | | 2022년 SQLP 목표 |
 |수상 | 2020년 추계학술대회 대학생 논문/졸업작품 공모전 장려상 수상 (한국 IT서비스 학회 주관) |
-|skill set| C C++ Python|
+|skill set | C C++ Python|
 | | Java MySQL Android |
-| | 로스트아크 1580오너 |
+|특기사항 | 로스트아크 1580오너 |
 
 ## 자기소개서
 <img src = "print.png"/> <br>
