@@ -12,7 +12,7 @@
 | | 2022.03 - 2022.12 광명융합 기술연구원 데이터분석과 수료(예정) |
 |skill set | C  C++  C# |
 | | Python  Java  MySQL |
-|특기사항 | 로스트아크 1580오너 |
+|특기사항&nbsp;&nbsp;&nbsp; | 로스트아크 1580오너 |
 
 ## 자기소개서
 <img src = "print.png"/> <br>
