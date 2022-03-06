@@ -1,6 +1,7 @@
 # Welcome to JYP's GitHub Pages
-
+<br>
 ### 본인소개
+
 |이름 | 박준영|
 |연락처 | pjy2958@naver.com |
 |자격증 | 2022년 정보처리기사 |
@@ -10,8 +11,9 @@
 | | 2022.03 - 2022.12 광명융합 기술연구원 데이터분석과 수료(예정) |
 |skill set | C   C++   C# |
 | | Python   Java   MySQL |
-
+<br>
 ### IT경험
+
 ||과목 |기간|개요 |
 |1|[git](https://heejinlee-kopo.github.io/subject)|2022년 3월|git 사용법 |
 |2||||
