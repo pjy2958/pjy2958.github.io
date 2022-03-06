@@ -2,7 +2,7 @@
 
 <br>
 
-### 본인소개
+## 본인소개
 
 |:--:|:--|
 |이름 | 박준영|
@@ -17,7 +17,7 @@
 
 <br>
 
-### IT경험
+## IT경험
 ##### 1.광명융합기술교육원
 
 ||과목 |기간|개요 |
@@ -31,12 +31,12 @@
 
 <br>
 
-### 한국폴리텍대학 광명융합기술교육원
+## 한국폴리텍대학 광명융합기술교육원
 <iframe width="700" height="584" src="https://www.youtube.com/embed/fFOt80UcN3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
-### 관련링크
+## 관련링크
 
 [ github](https://github.com/pjy2958)<br>
 [ 개인youtube](https://www.naver.com/)
