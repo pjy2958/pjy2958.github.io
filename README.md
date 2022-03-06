@@ -39,4 +39,4 @@
 ## 관련링크
 
 [ github](https://github.com/pjy2958)<br>
-[ 개인youtube](https://www.naver.com/)
+[ youtube](https://www.naver.com/)
