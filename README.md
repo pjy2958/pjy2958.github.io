@@ -1,6 +1,6 @@
 # Welcome to JYP's GitHub Pages
-
-## 본인소개
+<br>
+### 본인소개
 
 |이름 | 박준영|
 |연락처 | pjy2958@naver.com |
