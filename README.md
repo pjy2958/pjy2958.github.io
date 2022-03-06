@@ -1,4 +1,4 @@
-# one
+# JYP 개발 홈페이지
 ## Welcome to GitHub Pages
 ### three
 
