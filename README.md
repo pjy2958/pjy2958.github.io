@@ -18,9 +18,14 @@
 
 <br>
 
-### 자기소개서
-<img src = "print.png"/> <br>
-[ 자기소개서](/project.pptx) <br>
+### IT경험
+||과목 |기간|개요 |
+|1|[git](https://heejinlee-kopo.github.io/subject)|2022년 3월|git 사용법 |
+|2||||
+|3||||
+|4||||
+|5||||
+|6||||
 
 ## 동영상 - 소스코드복사
 <iframe width="759" height="427" src="https://www.youtube.com/embed/ocYdmg-3DNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
