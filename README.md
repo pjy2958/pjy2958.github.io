@@ -32,7 +32,7 @@
 <br>
 
 ### 한국폴리텍대학 광명융합기술교육원
-<iframe width="1038" height="584" src="https://www.youtube.com/embed/fFOt80UcN3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="584" src="https://www.youtube.com/embed/fFOt80UcN3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
