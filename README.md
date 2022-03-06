@@ -1,9 +1,6 @@
-## Welcome to JYP's GitHub Pages
-
-# #이많을수록 글씨가작아짐 부주제느낌
-
+# Welcome to JYP's GitHub Pages
+<br>
 ## 본인소개
-
 |이름 | 박준영|
 |연락처 | 010xxxxxxxx|
 |자격증 | 없다 |
