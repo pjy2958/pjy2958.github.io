@@ -20,9 +20,9 @@
 ## IT경험
 ##### 1.광명융합기술교육원
 
-||과목 |기간|개요 |
-|:--:|:--:|:--|:--|
-|1|[git](https://heejinlee-kopo.github.io/subject)|2022년 3월|git 사용법 |
+||과목 |기간|개요 ||
+|:--:|:--:|:--|:--||
+|1|[git](https://heejinlee-kopo.github.io/subject)|2022년 3월|git 사용법 |<img src="github.png"/>|
 |2||||
 |3||||
 |4||||
