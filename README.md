@@ -1,5 +1,7 @@
 # Welcome to JYP's GitHub Pages
+
 <br>
+
 ### 본인소개
 |이름 | 박준영|
 |:-------|:------------------------------------------------|
@@ -12,7 +14,9 @@
 |skill set | C   C++   C# |
 | | Python   Java   MySQL |
 |특기사항&nbsp;&nbsp;&nbsp; | 로스트아크 1580오너 |
+
 <br>
+
 ### 자기소개서
 <img src = "print.png"/> <br>
 [ 자기소개서](/project.pptx) <br>
