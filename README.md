@@ -11,8 +11,8 @@
 |수상 | 2020년 추계학술대회 대학생 논문/졸업작품 공모전 장려상 수상 (한국 IT서비스 학회 주관) |
 |학업 | 2015 - 2021 충북대 컴퓨터 공학과 졸업(학사) |
 | | 2022.03 - 2022.12 광명융합 기술연구원 데이터분석과 수료(예정) |
-|skill set&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C   C++   C# |
-| | Python   Java   MySQL |
+|skill set &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C &nbsp; C++ &nbsp; C# |
+| | Python &nbsp; Java &nbsp; MySQL |
 
 <br>
 
