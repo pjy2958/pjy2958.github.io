@@ -1,29 +1,15 @@
 # Welcome to JYP's GitHub Pages
 <br>
-## 본인소개
+## 본인소개-------------
 |이름 | 박준영|
-|연락처 | 010xxxxxxxx|
-|자격증 | 없다 |
-|수상 | 없다|
+|연락처 | pjy2958@naver.com |
+|자격증 | 2022년 정보처리기사 |
+| | 2022년 SQLP 목표 |
+|수상 | 2020년 추계학술대회 대학생 논문/졸업작품 공모전 장려상 수상 (한국 IT서비스 학회 주관) |
+|skill set| C C++ Python|
+| | Java MySQL Android |
+| | 로스트아크 1580오너 |
 
-# -------------------------
-
-|이름 |**박준영**|
-|연락처 | gdko(@)kopo.ac.kr|
-|skill set| Frontend - HTML, CSS, Javascript|
-| | Backend - Java, Spring, Oracle|
-|자격증| 20xx년 정보처리기사 |
-|| 20xx년 빅데이터분석기사 |
-|| 20xx년 SQLD |
-|| 20xx년 ADsP |
-|수상| 20xx년 ICT 멘토링 프로젝트 대상 수상 (과학기술정보통신부 지원)  |
-| | 20xx년 한국폴리텍대학 벤처창업아이템경진대회 대상 수상 (고용노동부 후원)  |
-| | 20xx년 금융데이터경진대회 금상 수상|
-| | 20xx년 대학생 논문 경진대회 은상 수상|
-|특기사항|  TOEIC 990 |
-||  리니지 만랩 |
-
-<img src = "dog.jpg"/> <br>
 ## 자기소개서
 <img src = "print.png"/> <br>
 [ 자기소개서](/project.pptx) <br>
