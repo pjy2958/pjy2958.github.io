@@ -32,5 +32,5 @@
 
 ### 관련링크
 
-[ github](https://www.naver.com/)
+[ github](https://github.com/pjy2958)
 [ youtube](https://www.naver.com/)
