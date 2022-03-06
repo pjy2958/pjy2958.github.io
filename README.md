@@ -1,7 +1,5 @@
 # Welcome to JYP's GitHub Pages
 
-<br>
-
 ### 본인소개
 
 |이름 | 박준영|
@@ -13,8 +11,6 @@
 | | 2022.03 - 2022.12 광명융합 기술연구원 데이터분석과 수료(예정) |
 |skill set | C   C++   C# |
 | | Python   Java   MySQL |
-
-<br>
 
 ### IT경험
 
