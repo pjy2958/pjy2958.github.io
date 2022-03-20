@@ -22,7 +22,7 @@
 
 ||과목 |기간|개요 ||
 |:--:|:--:|:--|:--||
-|1|[git](https://pjy2958.github.io/study_github/)|2022년 3월|git 사용법 |<img src="github.png" width="60" height="40">|
+|1|[git](https://pjy2958.github.io/Github/)|2022년 3월|git 사용법 |<img src="github.png" width="60" height="40">|
 |2|||||
 |3|||||
 |4|||||
