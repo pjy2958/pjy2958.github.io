@@ -23,8 +23,8 @@
 ||과목 |기간|개요 ||
 |:--:|:--:|:--|:--||
 |1|[git](https://pjy2958.github.io/Github/)|2022.03.02-2022.22.03.07|git 사용법 |<img src="github.png" width="60" height="40">|
-|2|java|2022.03.08-2022.03.28|java프로그래밍||
-|3|Linux|2022.03.29-2022.04.13|Linux환경 실습 및 서버 연결||
+|2|java|2022.03.08-2022.03.28|java프로그래밍|<img src="java.png" width="60" height="40">|
+|3|Linux|2022.03.29-2022.04.13|Linux환경 실습 및 서버 연결|<img src="ubuntu.png" width="60" height="40">|
 |4|||||
 |5|||||
 |6|||||
